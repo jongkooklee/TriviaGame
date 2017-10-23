@@ -1,0 +1,23 @@
+#innerContainer {
+	border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+}
+
+h1{
+	font-family: "Open Sans";
+	border-bottom: 1px solid gray;
+	padding-bottom: 10px;
+}
+
+#questions {
+	 line-height: 3;
+}
+
+#gameTimer {
+	font-size: 20px;
+	font-weight: bold;
+}
